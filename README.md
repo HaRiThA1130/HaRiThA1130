@@ -52,4 +52,26 @@
 
 ---
 
-⭐ Fun fact: I love building things that matter, sharing knowledge, and exploring new ideas in AI and tech!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaRiThA1130&show_icons=true&theme=tokyonight" alt="Haritha's GitHub Stats" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HaRiThA1130&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HaRiThA1130&theme=radical&row=1&margin-w=10&no-frame=true" alt="Trophies" />
+</p>
+
+## 👁️ Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HaRiThA1130&label=Profile+Views&color=brightgreen&style=flat" alt="Profile View Counter" />
+</p>
